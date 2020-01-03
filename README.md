@@ -5,9 +5,9 @@
 
 ## Architecture
 
-![image](https://user-images.githubusercontent.com/53864655/71707699-e8f58800-2e2e-11ea-908b-53fc8e386d73.png)
-
 ![image](https://user-images.githubusercontent.com/53864655/71707704-f6127700-2e2e-11ea-9c3a-c95021480333.png)
+
+![image](https://user-images.githubusercontent.com/53864655/71707699-e8f58800-2e2e-11ea-908b-53fc8e386d73.png)
 
 ![image](https://user-images.githubusercontent.com/53864655/71707707-fd398500-2e2e-11ea-8f95-6292b43b3cec.png)
 

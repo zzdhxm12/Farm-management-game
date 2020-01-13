@@ -5,20 +5,13 @@
 
 ## Architecture
 
-### 1. 프로그램 구조 
+### 1. 프로그램 구조도
 
-![image](https://user-images.githubusercontent.com/53864655/72232926-9cb4ff80-3607-11ea-8f5e-de317738fc7a.png)
+![image](https://user-images.githubusercontent.com/53864655/72240635-12c95e80-3628-11ea-9bb4-95af702aef5e.png)
 
+### 2. 절차 설계 
 
-### 2. 상세 구조
-
-![image](https://user-images.githubusercontent.com/53864655/72232899-6ecfbb00-3607-11ea-98b7-903ee1e5fe9f.png)
-
-
-### 3. 절차 설계 
-
-![image](https://user-images.githubusercontent.com/53864655/72232904-78f1b980-3607-11ea-962e-cc73b150b995.png)
-
+![image](https://user-images.githubusercontent.com/53864655/72240714-46a48400-3628-11ea-935a-4a2c33e3e55c.png)
 
 
 ## Usecase

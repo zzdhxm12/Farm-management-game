@@ -4,17 +4,18 @@
  동물농장을 구성, 각종 동물들을 잘 키워 직접 판매하거나 부산물(계란, 우유 등)을 판매하고 능력치를 향상시켜 경진대회에서 우승하는 기능을 포함한 프로그램 
 
 ## Architecture
-* 프로그램 구조 
+
+### 1. 프로그램 구조 
 
 ![image](https://user-images.githubusercontent.com/53864655/72232926-9cb4ff80-3607-11ea-8f5e-de317738fc7a.png)
 
 
-* 상세 구조
+### 2. 상세 구조
 
 ![image](https://user-images.githubusercontent.com/53864655/72232899-6ecfbb00-3607-11ea-98b7-903ee1e5fe9f.png)
 
 
-* 절차 설계 
+### 3. 절차 설계 
 
 ![image](https://user-images.githubusercontent.com/53864655/72232904-78f1b980-3607-11ea-962e-cc73b150b995.png)
 

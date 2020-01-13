@@ -36,20 +36,20 @@
 
 ### 3. 새로 시작 버튼 클릭 시
 
-![image](https://user-images.githubusercontent.com/53864655/71708043-b1d4a600-2e31-11ea-9dc3-4a9c28779dae.png)
+![image](https://user-images.githubusercontent.com/53864655/72233017-24027300-3608-11ea-9f84-05413c80dea8.png)
 
 * 닉네임을 입력하고, 새로 시작 버튼을 클릭하면 "닉네임 (사용자 입력)으로 게임을 시작합니다." 팝업 창 생성
 
 ### 4. 새로 시작 시, 사용자 패널 
 
-![image](https://user-images.githubusercontent.com/53864655/72232973-ef8eb700-3607-11ea-899c-52e9bd61a17e.png)
+![image](https://user-images.githubusercontent.com/53864655/72233019-282e9080-3608-11ea-9cbf-1030fbb01466.png)
 
 * 4개 버튼(게임 시작, 엔딩보관함, 설정, 메인으로) 사용 
 * 설정에서 닉네임 변경 가능
 
 ### 5. 게임 시작 클릭 시 (초기 게임)
 
-![image](https://user-images.githubusercontent.com/53864655/71708060-d4ff5580-2e31-11ea-9432-6f3e03c05a77.png)
+![image](https://user-images.githubusercontent.com/53864655/72233024-354b7f80-3608-11ea-8172-df1f4156e957.png)
 
 * 2가지 경우를 선택할 수 있는 선택 창 생성
 

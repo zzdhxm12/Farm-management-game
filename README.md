@@ -24,13 +24,13 @@
 
 ### 1. 메인 
 
-![image](https://user-images.githubusercontent.com/53864655/71707814-fb23f600-2e2f-11ea-840b-9dde524ade7e.png)
+![image](https://user-images.githubusercontent.com/53864655/72232960-dbe35080-3607-11ea-9df5-8b8506a4ed3f.png)
 
 * 버튼 4개(새로 시작, 이어 하기, 게임 방법, 게임 종료), 텍스트 필드 1개(닉네임 입력), 라벨 2개(닉네임, 제목) 사용
 
 ### 2. 게임 설명
 
-![image](https://user-images.githubusercontent.com/53864655/71708029-9bc6e580-2e31-11ea-8d07-ccad520474c6.png)
+![image](https://user-images.githubusercontent.com/53864655/72232966-e4d42200-3607-11ea-86b8-639d23aea80a.png)
 
 * 게임 방법 패널 생성
 
@@ -42,7 +42,7 @@
 
 ### 4. 새로 시작 시, 사용자 패널 
 
-![image](https://user-images.githubusercontent.com/53864655/71708050-c1ec8580-2e31-11ea-8471-ae955c78dc68.png)
+![image](https://user-images.githubusercontent.com/53864655/72232973-ef8eb700-3607-11ea-899c-52e9bd61a17e.png)
 
 * 4개 버튼(게임 시작, 엔딩보관함, 설정, 메인으로) 사용 
 * 설정에서 닉네임 변경 가능

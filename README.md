@@ -47,51 +47,125 @@
 * 4개 버튼(게임 시작, 엔딩보관함, 설정, 메인으로) 사용 
 * 설정에서 닉네임 변경 가능
 
-### 5. 게임 시작 클릭 시 (초기 게임)
+### 5. 엔딩보관함(초기 상태)
 
-![image](https://user-images.githubusercontent.com/53864655/72233024-354b7f80-3608-11ea-8172-df1f4156e957.png)
+![image](https://user-images.githubusercontent.com/53864655/72233102-9c693400-3608-11ea-858d-21c95ccf2789.png)
 
-* 2가지 경우를 선택할 수 있는 선택 창 생성
+* 초기 게임의 엔딩보관함은 비어있음
 
-### 6. 엔딩 획득
+### 6. 게임 시작 클릭 시 (초기 상태)
 
-![image](https://user-images.githubusercontent.com/53864655/71708063-e47e9e80-2e31-11ea-81c2-6606e9be6241.png)
+![image](https://user-images.githubusercontent.com/53864655/72233122-b6a31200-3608-11ea-825b-ea36d09dc256.png)
 
-* 5번 화면에서 첫 번째 경우를 선택한 경우, 파산 엔딩 획득
+* 게임 시나리오 나레이션
 
-### 7. 엔딩 보관함
+![image](https://user-images.githubusercontent.com/53864655/72233136-c884b500-3608-11ea-9cb6-4ffeab1a99e1.png)
 
-![image](https://user-images.githubusercontent.com/53864655/71708073-f3655100-2e31-11ea-8462-33a149017c3f.png)
+* 시나리오 나레이션 후, 2가지 선택지 등장
+
+### 7. 엔딩 획득 (파산)
+
+![image](https://user-images.githubusercontent.com/53864655/72233192-1bf70300-3609-11ea-80af-49355262a675.png)
+
+* 선택지에서 "농장을 팔아 돈을 마련한다."를 선택한 경우, 파산 엔딩 획득
+
+### 8. 엔딩 보관함 (파산 엔딩 보유 중)
+
+![image](https://user-images.githubusercontent.com/53864655/72233208-4052df80-3609-11ea-95ba-230eb226eb9d.png)
 
 * 엔딩 보관함에 엔딩이 추가되면 해당 엔딩 다시 보기 가능
 
-### 8. 메인 게임
+### 9. 메인 게임
 
-![image](https://user-images.githubusercontent.com/53864655/71708087-0710b780-2e32-11ea-8fe4-2b91e8f52ad4.png)
+![image](https://user-images.githubusercontent.com/53864655/72233224-62e4f880-3609-11ea-8c94-a8d08bbf83e4.png)
 
 * 하단에 7개 버튼(은행, 상점, 내 동물, 창고, 공방, 콘테스트, 종료) 사용
 * 상단에 유저 정보, 시간 표시
 * 게임 시간 1분 = 실제 시간 3초
 
-### 9. 은행
+### 10. 은행
 
-![image](https://user-images.githubusercontent.com/53864655/71708095-17c12d80-2e32-11ea-9d83-2a682691b4be.png)
+![image](https://user-images.githubusercontent.com/53864655/72233228-6aa49d00-3609-11ea-8a74-6a8e6eac6b30.png)
 
 * 빚 갚기와 대출 가능
 
-### 10. 상점 - 동물
+### 11. 상점 - 동물
+
+![image](https://user-images.githubusercontent.com/53864655/72233237-74c69b80-3609-11ea-9105-62f02b805791.png)
+
 * 동물 구입 : 구입을 원하는 동물 클릭 시, 구매 확인 후 이름 입력 창 생성
 
-### 11. 상점 - 사료/기타
+### 12. 상점 - 사료/기타
+
+![image](https://user-images.githubusercontent.com/53864655/72233239-7728f580-3609-11ea-8589-4974d9e66f74.png)
+
 * 사료/기타 구입 : 구매를 원하는 아이템을 클릭 시, 구매 확인 후 구입 확정
 
-### 12. 상점 - 로또 
+### 13. 상점 - 로또 
+
+![image](https://user-images.githubusercontent.com/53864655/72233244-798b4f80-3609-11ea-97a5-a7c9129b8c4f.png)
+
 * 6개의 숫자 입력 후 구매하기 버튼 클릭 시, 메세지 창으로 로또 결과 표시
 
-### 13. 동물 활동
+### 14. 동물 활동
+
+![image](https://user-images.githubusercontent.com/53864655/72233245-7beda980-3609-11ea-989e-2d2a95b32a64.png)
+
 * 구입한 동물이 메인 게임 화면에서 동물이 양 옆으로 움직임
 
-### 14. 도움말
+### 15. 도움말
+
+![image](https://user-images.githubusercontent.com/53864655/72233248-7db76d00-3609-11ea-8834-288de47e1001.png)
+
 * 도움말 버튼 클릭 시, 상세 도움말 표시
 
-### 15. 
+### 16. 내 동물
+
+![image](https://user-images.githubusercontent.com/53864655/72233252-7f813080-3609-11ea-9ae2-9fc6128f20eb.png)
+
+* 상점에서 구입한 동물을 차례로 화면에 출력
+
+### 17. 내 동물 상세 보기
+
+![image](https://user-images.githubusercontent.com/53864655/72233255-81e38a80-3609-11ea-8074-e474630c13a9.png)
+
+* 동물의 상세 정보 출력 (이름, 성격, 능력치, 체력)
+* 하트 주기, 먹이 주기, 팔기, 약 먹이기, 이름 바꾸기 가능
+
+### 18. 동물 판대
+
+![image](https://user-images.githubusercontent.com/53864655/72233337-12ba6600-360a-11ea-9323-3b5bdb0108a4.png)
+
+* 내 동물 상세 보기(**17**)에서 동물 판매 시, 내 동물(**16**)에서 판매한 동물 사라짐
+
+### 19. 창고
+
+![image](https://user-images.githubusercontent.com/53864655/72233339-15b55680-360a-11ea-8686-939c32139f8f.png)
+
+* 기본적으로 게임 내 존재하는 아이템이 그림으로 출력되고 사용자가 가지고 있는 아이템의 개수가 라벨로 표시
+
+### 20. 공방
+
+![image](https://user-images.githubusercontent.com/53864655/72233340-1817b080-360a-11ea-97d5-1ae3bfe67670.png)
+
+* 다양한 재료들을 다른 아이템으로 제작 가능
+
+### 21. 콘테스트
+
+* 내가 가진 동물의 능력치 등의 종합적인 정보를 통해 다른 동물들과 경쟁
+
+![image](https://user-images.githubusercontent.com/53864655/72233342-1cdc6480-360a-11ea-9205-0c740815979d.png)
+
+* 사용자 레벨 15 이상만 참여 가능
+
+![image](https://user-images.githubusercontent.com/53864655/72233344-1e0d9180-360a-11ea-9411-ff15dce8f750.png)
+
+* 현재 내가 가진 동물 출력
+
+![image](https://user-images.githubusercontent.com/53864655/72233347-206feb80-360a-11ea-92e8-47d6a457310e.png)
+
+* 콘테스트에 내보낼 동물 선택
+
+![image](https://user-images.githubusercontent.com/53864655/72233350-2239af00-360a-11ea-8024-9e712896bb4e.png)
+
+* 콘테스트 결과 출력
